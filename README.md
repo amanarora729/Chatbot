@@ -1,4 +1,3 @@
-# Humanli.ai - AI/ML Engineer Assignment
 ## Website-Based Chatbot Using Embeddings
 
 ### 1. Overview
